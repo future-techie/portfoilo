@@ -66,14 +66,17 @@ p span {
     margin-bottom: 8px;
 }
 .skills{
+  display: grid;
+}
+/* .skills{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     padding-bottom: 20px;
-}
-.skills2{
+} */
+/* .skills2{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     padding-bottom: 20px;  
-}
+} */
