@@ -69,6 +69,10 @@ p span {
   display: grid;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
 }
+.skills2{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
 /* .skills{
     display: flex;
     flex-direction: column;
